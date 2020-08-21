@@ -1,46 +1,36 @@
 {
   "main": {
     "name":"I'am Ahmed Bule",
-    "description":"I am a Software Engineer who is passionately changing the world once code at a time!",
+    "description":"I am a Software Engineer who is passionately changing the world one code at a time!",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":"My passion in Software began when I stumbled in  Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"Don’t hesitate to reach out with the contact information below, or follow me on LinkedIn",
     "email": "ahmedbule01@gmail.com",
     "phone": "612-986-1950",
     "github":"https://github.com/AhmedBule",
     "project":"https://github.com/nordicgiant2/react-nice-resume",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      
+      "city":"South Saint Paul",
+      "state":"MN",
+      "zip": "55075"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "https://ahmedbule.github.io/react-porfolio/",
+    "resumedownload":"https://drive.google.com/file/d/1dGPLTm_DX_AhdxH4hTEBjOh2jIIwsaxm/view",
     "social":[
       {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/ahmed-bule-55b043a1/a/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"http://instagram.com/therealahmedbule",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/AhmedBule",
         "className":"fa fa-github"
       }
     ]
@@ -49,23 +39,23 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"University of Minnesota",
+        "degree":"Full-Stack Software Developer Certificate",
+        "graduated":"September 2020",
+        "description":"Obtained a Full-Stack Software Development certificate."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Metropolitan State University",
+        "degree":"Biology",
+        "graduated":"December 2018",
+        "description":"Graduated with honors in Biology with specialty in Cell & Molecular Biology"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
+        "company":"Global Freight LLC",
+        "title":"IT Help Desk",
+        "years":"July 2018 - Present",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       },
       {
@@ -111,32 +101,26 @@
       {
         "title":"Note-Taker",
         "category":"An application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.",
-        "image":"canadian-wanderlust.jpg",
+        "image":"note-taker1.png",
         "url":"https://notetaker112.herokuapp.com/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Budget-Trackers",
+        "category":"An application that allows users to add expenses and deposits to their budget with or without a connection.",
+        "image":"budget-trackers1.png",
+        "url":"https://frozen-woodland-85095.herokuapp.com/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Eat-Da-Burger",
+        "category":"Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.",
+        "image":"burger1.png",
+        "url":"https://mighty-meadow-74253.herokuapp.com/"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"User-Directory",
+        "category":"Employee-Directory is an application that lets a manager or a company filter or view non-sensitive data about other employees.",
+        "image":"user-directory1.png",
+        "url":"https://ahmedbule.github.io/employee-directory/"
       }
     ]
   }
