@@ -1,6 +1,6 @@
 {
   "main": {
-    "name":"I'am Ahmed Bule",
+    "name":"Ahmed Bule",
     "description":"I am a Software Engineer who is passionately changing the world one code at a time!",
     "image":"profilepic.jpg",
     "bio":"My passion in Software began when I stumbled in  Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
@@ -8,7 +8,6 @@
     "email": "ahmedbule01@gmail.com",
     "phone": "612-986-1950",
     "github":"https://github.com/AhmedBule",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
     "address":{
       
       "city":"South Saint Paul",
@@ -56,13 +55,13 @@
         "company":"Global Freight LLC",
         "title":"IT Help Desk",
         "years":"July 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Provided maintenance and development for bug fixes in existing web application. Furthermore, I installed workstations, servers, and other software"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Family Quality Care",
+        "title":"Computer Technician/Help Desk",
+        "years":"August 2017 - June 2018",
+        "description":"Performed installation of hardware, software, and telecommunications. I have also trained staff in various tasks."
       }
     ],
     "skills":[
